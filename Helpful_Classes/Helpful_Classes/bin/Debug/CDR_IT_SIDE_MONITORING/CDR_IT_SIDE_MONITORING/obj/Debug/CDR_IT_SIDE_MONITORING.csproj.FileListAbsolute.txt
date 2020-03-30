@@ -1,0 +1,12 @@
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\bin\Debug\CDR_IT_SIDE_MONITORING.exe.config
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\bin\Debug\CDR_IT_SIDE_MONITORING.exe
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\bin\Debug\CDR_IT_SIDE_MONITORING.pdb
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.csprojAssemblyReference.cache
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.Form1.resources
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.Properties.Resources.resources
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.csproj.GenerateResource.cache
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.csproj.CoreCompileInputs.cache
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.exe
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.pdb
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\jntaller\source\repos\CDR_IT_SIDE_MONITORING\CDR_IT_SIDE_MONITORING\obj\Debug\CDR_IT_SIDE_MONITORING.csproj.CopyComplete

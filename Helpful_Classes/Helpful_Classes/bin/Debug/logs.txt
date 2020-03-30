@@ -1,0 +1,11 @@
+Message Sent
+JustinEncrypted to 
+gDtPTzLS01pJmjyoEqEFJg==Decrypted to 
+ErlindaEncrypted to gDtPTzLS01pJmjyoEqEFJg==
+WxrTADk3YTdaosLWCdDecrypted to Justin
+WxrTADk3YTdaosLWCd+xMA==Decrypted to System.FormatException: Invalid length for a Base-64 char array or string.
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at Helpful_Classes.StringCryptography.DecryptIt(String s, Byte[] key, Byte[] IV) in C:\Users\jntaller\source\repos\Helpful_Classes\Helpful_Classes\ProjectClasses.cs:line 303
+   at Helpful_Classes.StringCryptography.decryptor(String stringToDecrypt) in C:\Users\jntaller\source\repos\Helpful_Classes\Helpful_Classes\ProjectClasses.cs:line 253
